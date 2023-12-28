@@ -14,11 +14,11 @@
 根据服务状态选择优先选择空闲的星球使用，体验更佳！
 :::
 
-- [🔗 免费星球#1](https://plus2.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus2.planetzero.cn%2Fendpoint)
-- [🔗 免费星球#2](https://plus3.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus3.planetzero.cn%2Fendpoint)
-- [🔗 免费星球#3](https://plus4.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus4.planetzero.cn%2Fendpoint)
-- [🔗 免费星球#4](https://plus5.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus5.planetzero.cn%2Fendpoint)
-- [🔗 免费星球#5](https://plus6.xyhelper.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus6.planetzero.cn%2Fendpoint)
+- [🔗 免费星球#1](https://plus2.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus2.planetzero.cn%2Fendpoint)
+- [🔗 免费星球#2](https://plus3.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus3.planetzero.cn%2Fendpoint)
+- [🔗 免费星球#3](https://plus4.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus4.planetzero.cn%2Fendpoint)
+- [🔗 免费星球#4](https://plus5.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus5.planetzero.cn%2Fendpoint)
+- [🔗 免费星球#5](https://plus6.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus6.planetzero.cn%2Fendpoint)
 
 ---
 
