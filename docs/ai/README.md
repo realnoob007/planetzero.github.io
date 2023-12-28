@@ -8,19 +8,22 @@ sidebar: false
 <kefu></kefu> -->
 
 <el-row :gutter="10">
-    <navcard CardName="全能版" Url="https://chat.planetzero.cn">
-        <div style="font-weight: bold; margin-bottom: 10px;">简洁，高效的使用界面</div>
-        聊天记录本地存储 </br>
-        支持大部分AI模型 </br>
-        灵活的高级计费方式 </br>
-        <img src="./chat_page.png" style="width:100%; height:auto; border-radius: 10px;"></img>
-    </navcard>
-    <navcard CardName="官网版" Url="https://planetzero.cn/xq/">
-        <div style="font-weight: bold; margin-bottom: 10px;">官方1:1界面 & 功能，支持会话记录存储及漫游。</div>
-        丰富的插件扩展功能</br>
-        国内直连，无需魔法</br>
-        <img src="./plus_page.png" style="width:100%; height:auto; border-radius: 10px;"></img>
-    </navcard>
+<navcard CardName="全能版" Url="https://chat.planetzero.cn">
+简洁，高效的使用界面</br>
+聊天记录本地存储 </br>
+支持大部分AI模型 </br>
+灵活的高级计费方式 </br>
+<img src="./chat_page.png" style="width:100%; height:auto; border-radius: 10px;"></img>
+</navcard>
+<navcard CardName="官网版" Url="https://planetzero.cn/xq/">
+官方1:1界面 & 功能，支持会话记录存储及漫游。</br>
+丰富的插件扩展功能</br>
+国内直连，无需魔法</br>
+<img src="./plus_page.png" style="width:100%; height:auto; border-radius: 10px;"></img>
+</navcard>
 </el-row>
 
+<!-- <ClientOnly>
 <kefu></kefu>
+
+</ClientOnly> -->
