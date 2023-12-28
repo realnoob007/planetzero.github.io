@@ -13,13 +13,13 @@ sidebar: false
         聊天记录本地存储 </br>
         支持大部分AI模型 </br>
         灵活的高级计费方式 </br>
-        <img src="/images/chat.png" style="width:100%; height:auto; border-radius: 10px;"></img>
+        <img src="/images/chat_page.png" style="width:100%; height:auto; border-radius: 10px;"></img>
     </navcard>
     <navcard CardName="官网版" Url="https://planetzero.cn/xq/">
         <div style="font-weight: bold; margin-bottom: 10px;">官方1:1界面 & 功能，支持会话记录存储及漫游。</div>
         丰富的插件扩展功能</br>
         国内直连，无需魔法</br>
-        <img src="/images/personal.png" style="width:100%; height:auto; border-radius: 10px;"></img>
+        <img src="/images/plus_page.png" style="width:100%; height:auto; border-radius: 10px;"></img>
     </navcard>
 </el-row>
 
