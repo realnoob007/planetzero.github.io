@@ -2,43 +2,25 @@
 sidebar: false
 ---
 
-
 # 使用入口
 
 <!-- <el-button type="success">成功按钮</el-button>
 <kefu></kefu> -->
 
-<el-row  :gutter="10">
-
-<navcard CardName="通用版(免费/共享PLUS用户)" Url="https://chat.xyhelper.com.cn">
-使用自定义界面 </br>
-聊天记录本地存储 </br>
-所有用户均可以使用本版本 </br>
-<img src="/images/general.png"></img>
-</navcard>
-<navcard CardName="独享版(付费)" Url="https://gpt.xyhelper.com.cn">
-仿官方界面，支持会话记录存储及漫游。</br>
-仅支持独享会员及独享PLUS会员使用。 </br> 
-独享PLUS用户支持使用官方联网及插件。</br>
-<img src="/images/personal.png"></img>
-</navcard>
-</el-row>
-<el-row  :gutter="10">
-<navcard CardName="增强版(付费)" Url="https://academic.xyhelper.com.cn">
-丰富的插件扩展功能 </br>
-仅支持独享会员及独享PLUS会员使用。 </br>
-支持使用非官方联网及插件。</br>
-<img src="/images/advance.png"></img>
-</navcard>
-<navcard CardName="车队版(付费)" Url="/xq">
-仿官方界面，支持会话记录存储及漫游。 </br>
-面向共享会员开放试运行。 </br>
-支持使用官方联网及插件。   </br>
-<img src="/images/personal.png"></img>
-</navcard>
+<el-row :gutter="10">
+    <navcard CardName="全能版" Url="https://chat.planetzero.cn">
+        <div style="font-weight: bold; margin-bottom: 10px;">简洁，高效的使用界面</div>
+        聊天记录本地存储 </br>
+        支持大部分AI模型 </br>
+        灵活的高级计费方式 </br>
+        <img src="/images/chat.png" style="width:100%; height:auto; border-radius: 10px;"></img>
+    </navcard>
+    <navcard CardName="官网版" Url="https://planetzero.cn/xq/">
+        <div style="font-weight: bold; margin-bottom: 10px;">官方1:1界面 & 功能，支持会话记录存储及漫游。</div>
+        丰富的插件扩展功能</br>
+        国内直连，无需魔法</br>
+        <img src="/images/personal.png" style="width:100%; height:auto; border-radius: 10px;"></img>
+    </navcard>
 </el-row>
 
-<!-- <ClientOnly>
 <kefu></kefu>
-
-</ClientOnly> -->
