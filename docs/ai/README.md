@@ -26,6 +26,13 @@ sidebar: false
 1元兑换1美刀，最具性价比的解决方案</br></br>
 <img src="./api_page.png" style="width:100%; height:auto; border-radius: 10px;"></img>
 </navcard>
+<navcard CardName="PlanetZero官方商城" Url="https://shop.planetzero.cn">
+便捷购买PlanetZero全部产品</br>
+超多活动折扣</br>
+成为代理赚取佣金</br>
+售后客服全程保障</br></br>
+<img src="./shop_page.png" style="width:100%; height:auto; border-radius: 10px;"></img>
+</navcard>
 </el-row>
 
 <!-- <ClientOnly>
