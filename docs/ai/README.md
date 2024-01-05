@@ -10,7 +10,6 @@ sidebar: false
 <el-row :gutter="10">
 <navcard CardName="全能版" Url="https://chat.planetzero.cn">
 简洁，高效的使用界面</br>
-聊天记录本地存储 </br>
 支持大部分AI模型 </br>
 灵活的高级计费方式 </br></br>
 <img src="./chat_page.png" style="width:100%; height:auto; border-radius: 10px;"></img>
@@ -20,6 +19,12 @@ sidebar: false
 丰富的插件扩展功能</br>
 国内直连，无需魔法</br></br>
 <img src="./plus_page.png" style="width:100%; height:auto; border-radius: 10px;"></img>
+</navcard>
+<navcard CardName="开发者平台" Url="https://api.planetzero.cn">
+支持国内外各大模型API接入</br>
+客服人员18小时在线，解决您的技术问题</br>
+1元兑换1美刀，最具性价比的解决方案</br></br>
+<img src="./api_page.png" style="width:100%; height:auto; border-radius: 10px;"></img>
 </navcard>
 </el-row>
 
