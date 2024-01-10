@@ -36,6 +36,6 @@
 根据服务状态选择优先选择空闲的星球使用，体验更佳！
 :::
 
-- [🔗 专属星球-1](https://plus1.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus1.planetzero.cn%2Fendpoint)
+- [🔗 专属星球-1](https://plus1.planetzero.cn) ![Endpoint Badge](https://shields.planetzero.cn/endpoint?url=https%3A%2F%2Fplus1.planetzero.cn%2Fendpoint)
 
 - 更多私人独享星球隐藏
