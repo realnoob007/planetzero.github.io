@@ -13,6 +13,7 @@
 以下星球, 用户可自由选择星球探索。 `UserToken` 请输入（任意字符，长度在6~18之间）。 您的对话将会在云端保存，记住星球编号和密码下次登录即可获取聊天记录。
 
 ::: tip 提示
+限时福利: 免费Plus体验星球!!!
 根据服务状态选择优先选择空闲的星球使用，体验更佳！
 :::
 
@@ -21,7 +22,7 @@
 - [🔗 免费星球#3](https://plus4.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus4.planetzero.cn%2Fendpoint)
 - [🔗 免费星球#4](https://plus5.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus5.planetzero.cn%2Fendpoint)
 - [🔗 免费星球#5](https://plus6.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus6.planetzero.cn%2Fendpoint)
-
+- [🔗 免费Plus体验星球](https://plus7.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus7.planetzero.cn%2Fendpoint)
 ---
 
 ## 🌍 专属星球
@@ -34,3 +35,4 @@
 :::
 
 - [🔗 专属星球-1](https://plus1.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus1.planetzero.cn%2Fendpoint)
+- 更多私人独享星球隐藏
