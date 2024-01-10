@@ -14,15 +14,16 @@
 
 ::: tip 提示
 限时福利: 免费Plus体验星球!!!
+
 根据服务状态选择优先选择空闲的星球使用，体验更佳！
 :::
 
-- [🔗 免费星球#1](https://plus2.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus2.planetzero.cn%2Fendpoint)
-- [🔗 免费星球#2](https://plus3.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus3.planetzero.cn%2Fendpoint)
-- [🔗 免费星球#3](https://plus4.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus4.planetzero.cn%2Fendpoint)
-- [🔗 免费星球#4](https://plus5.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus5.planetzero.cn%2Fendpoint)
-- [🔗 免费星球#5](https://plus6.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus6.planetzero.cn%2Fendpoint)
-- [🔗 免费Plus体验星球](https://plus7.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus7.planetzero.cn%2Fendpoint)
+- [🔗 免费星球#1](https://plus2.planetzero.cn) ![Endpoint Badge](https://shields.planetzero.cn/endpoint?url=https%3A%2F%2Fplus2.planetzero.cn%2Fendpoint)
+- [🔗 免费星球#2](https://plus3.planetzero.cn) ![Endpoint Badge](https://shields.planetzero.cn/endpoint?url=https%3A%2F%2Fplus3.planetzero.cn%2Fendpoint)
+- [🔗 免费星球#3](https://plus4.planetzero.cn) ![Endpoint Badge](https://shields.planetzero.cn/endpoint?url=https%3A%2F%2Fplus4.planetzero.cn%2Fendpoint)
+- [🔗 免费星球#4](https://plus5.planetzero.cn) ![Endpoint Badge](https://shields.planetzero.cn/endpoint?url=https%3A%2F%2Fplus5.planetzero.cn%2Fendpoint)
+- [🔗 免费星球#5](https://plus6.planetzero.cn) ![Endpoint Badge](https://shields.planetzero.cn/endpoint?url=https%3A%2F%2Fplus6.planetzero.cn%2Fendpoint)
+- [🔗 免费Plus体验星球](https://plus7.planetzero.cn) ![Endpoint Badge](https://shields.planetzero.cn/endpoint?url=https%3A%2F%2Fplus7.planetzero.cn%2Fendpoint)
 ---
 
 ## 🌍 专属星球
@@ -30,9 +31,11 @@
 以下星球为 PlanetZero 共享会员专属星球，支持**官网Plus会员全部功能**！联系客服购买获取登录密码。这里是详细的[🔗付费方案](https://planetzero.cn/plus)。您的对话将会在云端保存，记住星球编号和密码下次登录即可获取聊天记录。
 
 共享/独享会员购买链接: [🛒 零号星球官方商城](https://plus2.planetzero.cn)
+
 ::: tip 提示
 根据服务状态选择优先选择空闲的星球使用，体验更佳！
 :::
 
 - [🔗 专属星球-1](https://plus1.planetzero.cn) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fplus1.planetzero.cn%2Fendpoint)
+
 - 更多私人独享星球隐藏
