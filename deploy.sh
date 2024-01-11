@@ -13,7 +13,7 @@ docker buildx build --platform linux/amd64 -t chasney/planetzero-www:latest . --
 cd docs/.vuepress/dist
 
 # 如果是发布到自定义域名
-echo 'planetzero.cn' > CNAME
+echo 'www.planetzero.cn' > CNAME
 
 # git init
 # 初始化 main 分支  
